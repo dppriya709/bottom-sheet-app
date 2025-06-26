@@ -76,7 +76,3 @@ bottom-sheet-app/
 > You can deploy this project using [Vercel](https://vercel.com) or [GitHub Pages](https://pages.github.com/)
 
 ---
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
