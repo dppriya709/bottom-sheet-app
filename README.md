@@ -73,6 +73,6 @@ bottom-sheet-app/
 
 ## 🌐 Live Demo
 
-> You can deploy this project using [Vercel](https://vercel.com) or [GitHub Pages](https://pages.github.com/)
+> I deploy this project using  or [GitHub Pages]  (https://dppriya709.github.io/bottom-sheet-app/)
 
 ---
