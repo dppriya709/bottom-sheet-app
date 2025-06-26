@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bottom-sheet-app/static/css/main.8c223804.css",
+    "main.js": "/bottom-sheet-app/static/js/main.4612e196.js",
+    "static/js/453.955b7579.chunk.js": "/bottom-sheet-app/static/js/453.955b7579.chunk.js",
+    "index.html": "/bottom-sheet-app/index.html",
+    "main.8c223804.css.map": "/bottom-sheet-app/static/css/main.8c223804.css.map",
+    "main.4612e196.js.map": "/bottom-sheet-app/static/js/main.4612e196.js.map",
+    "453.955b7579.chunk.js.map": "/bottom-sheet-app/static/js/453.955b7579.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c223804.css",
+    "static/js/main.4612e196.js"
+  ]
+}
